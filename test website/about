@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Baycrest Stables</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet"
+      integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+    <link rel="stylesheet" href="./style.css">
+  </head>
+
+  <body>
+
+    <nav class="navbar navbar-expand-lg bg-body-tertiary" >
+        <div class="container-fluid">
+          <a class="navbar-brand" href="./index.html"><img src="./How-To-Draw-a-Unicorn.jpg" height = 30 style="margin-right: 10px">Baycrest Stables</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="./index.html">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="./about">About</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Lesson Packages</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="./contact.html">Contact</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+    <div class="card mx-auto top-buffer" style="max-width: 540px;">
+        <div class="row g-0">
+          <div class="col-md-4">
+            <img src="GUEST_fc8ba3d5-5e55-411e-80ec-357e02b71e0e.jpeg" class="img-fluid rounded-start" alt="...">
+            <img src="./1000_F_445581621_9epq1ojXWQ1TlNi2m0yH2q5e7G6ncbIn.jpg" class="img-fluid">
+            <img src="./How-To-Draw-a-Unicorn.jpg" class="img-fluid">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h5 class="card-title">Angi Danielson</h5>
+              <p class="card-text">Angi is the spawn of a bird and a bat born sometime in the late 1900s in the mystical kingdom of northern Virginia. She has been riding horses and a variety of other quadrupeds with varying levels of success since she was a small child and competing in hunter and jumper shows pretty much the whole time.  She was on the Bay Ridge (not THAT Bay Ridge... the OG one) NCEL team as a teenager. Shortly afterwards, she moved to Alaska.  She strayed out of thought and time. Stars wheeled overhead, and every day was as long as the age of the earth-- wait no that's Gandalf.  Anyway, when she was done communing with the moose and whales she moved back to Northern Virginia, and started up Baycrest Stables. idk she needs to give me actual copy to put on her website </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+  </body>
+
+
+  </html>
